@@ -11,3 +11,5 @@ this project will be continuing to final project
 =======
 - Olena was here
 >>>>>>> OlenaNSC-patch-1
+
+Defining Roles:

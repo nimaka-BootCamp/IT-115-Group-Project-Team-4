@@ -1,0 +1,1 @@
+Required CONTRIBUTING file for assignment
