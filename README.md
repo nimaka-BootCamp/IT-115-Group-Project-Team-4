@@ -5,3 +5,4 @@ this going to be the begining of our first project
 this project will be continuing to final project
 
 -Jasper was here
+-Justin was here too
