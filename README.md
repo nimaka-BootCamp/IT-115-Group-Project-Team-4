@@ -3,8 +3,8 @@
 This is where the project for the class will be.
 
 Our group roles are:
-Evan- Project manger/Dev 
-Jasper-software engineer/Lead Dev
-Justin-UITX/Dev
-Nima-Lead/Product tester
-Olena-Head of market research
+Evan- Project manger/Dev - wallaceevan11@gmail.com
+Jasper-software engineer/Lead Dev - 147jasper@duck.com
+Justin-UITX/Dev - phounsavanj@gmail.com
+Nima-Lead/Product tester - 
+Olena-Head of market research - yarinna505@gmail.com
