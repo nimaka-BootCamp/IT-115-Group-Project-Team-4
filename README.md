@@ -1,4 +1,4 @@
-# IT-115-Group-Project-Team-4-Assignment-5
+# IT-115-Group-Project-Team-4
 
 Hello team
 this going to be the begining of our first project
