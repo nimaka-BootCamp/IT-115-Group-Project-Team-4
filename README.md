@@ -1,15 +1,10 @@
 # IT-115-Group-Project-Team-4-Assignment-5
 
-Hello team
-this going to be the begining of our first project
-this project will be continuing to final project
+This is where the project for the class will be.
 
--Jasper was here
-<<<<<<< HEAD
--Justin was here too
--Evan was here too too
-=======
-- Olena was here
->>>>>>> OlenaNSC-patch-1
-
-Defining Roles:
+Our group roles are:
+Evan- Project manger/Dev 
+Jasper-software engineer/Lead Dev
+Justin-UITX/Dev
+Nima-Lead/Product tester
+Olena-Head of market research
