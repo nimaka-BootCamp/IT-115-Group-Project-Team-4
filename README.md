@@ -12,6 +12,6 @@ Justin -UITX/Dev - phounsavanj@gmail.com
 
 Nima -Lead/Product Tester - nimaka@northseattle.edu; nimamehrtash@gmail.com
 
-Olena - Head of Market Research - yarinna505@gmail.com
+Olena - Head of Market Research - yarinna505@gmail.com  best meeting times:  Monday all day, Tuesday, Wednesday, Thursday, Saturday and Sunday before 4pm, Friday not available
 
 
