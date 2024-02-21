@@ -1,0 +1,3 @@
+Hi Justin!
+
+This folder is for anything related to the project you'd like to have in our repo for safe keeping (ideas, notes, code, photos, etc.)
