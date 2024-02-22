@@ -8,7 +8,7 @@ Evan - Project Manager/Dev - wallaceevan11@gmail.com; best meeting times: Monday
 
 Jasper - Software Engineer/Lead Dev - 147jasper@duck.com
 
-Justin -UITX/Dev - phounsavanj@gmail.com
+Justin - Communications/UITX - phounsavanj@gmail.com
 
 Nima -Lead/Product Tester - Emails: nimaka@northseattle.edu; nimamehrtash@gmail.com
                             Cell Phone: 206 434 0444
