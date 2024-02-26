@@ -16,5 +16,6 @@ Nima -Lead/Product Tester - Emails: nimaka@northseattle.edu; nimamehrtash@gmail.
                                           Thursday and Friday: All day, except the time that we meet for class.  
 
 Olena - Head of Market Research - yarinna505@gmail.com  best meeting times:  Monday all day, Tuesday, Wednesday, Thursday, Saturday and Sunday before 4pm, Friday not available
-
+Justin - Availbility: Mon-Friday Mornings from 10am-12pm and evenings from 6pm-10pm. My schedule is pretty flexible. 
+                                
 
