@@ -7,6 +7,7 @@ Our group roles are:
 Evan - Project Manager/Dev - wallaceevan11@gmail.com; best meeting times: Monday all day, Tuesday and Wednesday before 5pm, Thursday all day, contact for Friday through Sunday
 
 Jasper - Software Engineer/Lead Dev - 147jasper@duck.com
+Available: basically when ever just hit me up. Call me, dm, or text. Better to text me cus im not always signed in to dc
 
 Justin - Communications/UITX - phounsavanj@gmail.com
 
