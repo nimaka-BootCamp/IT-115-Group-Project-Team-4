@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            animation: fadeIn 1s ease-out;
+        }
+        .container {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            height: auto; /* Changed to auto to accommodate content */
+            animation: fadeInUp 1s ease-out;
+        }
+        .profile-picture {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            margin: 20px auto;
+            display: block;
+            animation: fadeInUp 2s ease-out;
+        }
+        .bio, .links {
+            animation: fadeInUp 2s ease-out;
+        }
+        .links a {
+            text-decoration: none;
+            color: #007bff;
+            margin: 0 10px;
+            transition: transform 0.3s ease-out; /* Added for smooth transition */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://cdn.discordapp.com/attachments/1197708416374812753/1212946257694425139/Evans_Headshot.jpg?ex=65f3af3b&is=65e13a3b&hm=87b002a6095af49c16c153871d7e0e2dbfc7d16b5810caaa489366593ac21f3c&" alt="Profile Picture" class="profile-picture">
+        <div class="bio">
+            <h2>Biography</h2>
+            <p>Despite my love for the great indoors, I still would consider myself a PNW native through and through. You can catch me cooking fresh salmon on a wood plank, coding in coffee shops, playing video games, and enjoying cloudy Seattle weather that makes you wonder if you’ll ever be happy in your entire life. 
+
+                I was born and raised in Portland, Oregon. I spent most of my time there on weekly field trips facilitated by Sunnyside Environmental where I attended K-8, taking road trips to the Oregon coast, and being a major cause of “out of order” signs on exhibits at OMSI (Oregon Museum of Science and Industry). Since the age of 13, Seattle has been my home, and its vibrant culture and diverse community have greatly influenced my life. Directly after high school, I began my professional journey at PCC Community Markets, where I immersed myself in various roles, ranging from cashiering to assuming the responsibilities of a grocery team lead. These experiences not only honed my skills in customer service and leadership but also instilled in me a deep appreciation for the importance of community and sustainable practices in the workplace.
+                
+                I embarked on my academic journey at North Seattle College in the fall of 2022, where I was first introduced to the captivating world of computer programming. It was there that I unearthed a passion for the intricacies of coding and software development. Motivated by this newfound interest, I am currently dedicated to earning a Bachelor’s of Applied Science in Application Development, aiming to expand my knowledge and skills in this dynamic field.
+                 </p>
+        </div>
+        <div class="links">
+            <!-- Updated LinkedIn link with new image -->
+            <a href="https://www.linkedin.com/in/evan-wallace-816561230/" target="_blank">
+                <img src="https://cdn.discordapp.com/attachments/1207030108884566037/1212948706400145428/linkedin-logo-black_371232-2695060029.png?ex=65f3b183&is=65e13c83&hm=c0eadd57aa09ff690ebc8ca4ff484c203d049897cdf8a8d37225ac1916f065c7&" alt="LinkedIn" style="width:30px; height:30px;">
+            </a>
+            <!-- Updated GitHub link with new image -->
+            <a href="https://github.com/RenascentBard98" target="_blank">
+                <img src="https://cdn.discordapp.com/attachments/1207030108884566037/1212948938307665920/GitHub-Symbol-2149346605.png?ex=65f3b1ba&is=65e13cba&hm=3461962de54ce0e0d8555d8862608281df0638273773e5125e8d83d5991af1c1&" alt="GitHub" style="width:30px; height:30px;">
+            </a>
+        </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const links = document.querySelectorAll('.links a');
+
+            links.forEach(link => {
+                link.setAttribute('target', '_blank'); // This line is optional as we've already added target="_blank" in HTML
+
+                link.addEventListener('mouseenter', (e) => {
+                    e.target.style.transform = 'scale(1.05)';
+                });
+
+                link.addEventListener('mouseleave', (e) => {
+                    e.target.style.transform = 'scale(1)';
+                });
+            });
+        });
+    </script>
+</body>
+</html>
