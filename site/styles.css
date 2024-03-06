@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+.team-container {
+    position: relative;
+    width: 80%;
+    padding-top: 40%;
+    border: 5px solid #3b82f6;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(59, 130, 246, 0.3);
+    background-color: #ffffff;
+    transition: transform 0.5s ease-in-out;
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 4px solid #3b82f6;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 6px 12px rgba(59, 130, 246, 0.3);
+    position: absolute;
+    transition: transform 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+.team-title {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 2em;
+    color: #1f2937;
+    font-weight: bold;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.profile-pic:hover {
+    transform: scale(1.1);
+    z-index: 10;
+    box-shadow: 0 12px 24px rgba(59, 130, 246, 0.5);
+}
+
